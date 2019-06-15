@@ -1,0 +1,44 @@
+.post-container {
+    border: 1px solid black;
+    width: 500px;
+    height: 900px;
+    margin-left: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.post-head {
+    margin-left: 10px;
+    /* border: 1px solid red; */
+}
+
+
+.post-images {
+    width: 500px;
+    height: 500px;
+}
+
+.postImg {
+    width: 30px;
+    margin-left: 10px;
+}
+
+.likes {
+    margin-left: 10px;
+    margin-top: 0;
+}
+
+.comments {
+    margin-left: 10px;
+    /* border: 1px solid red; */
+}
+
+
+.timestamp {
+    margin-left: 10px;
+    font-size: 12px;
+}
+
+.comment-input {
+    width: 99%;
+}
